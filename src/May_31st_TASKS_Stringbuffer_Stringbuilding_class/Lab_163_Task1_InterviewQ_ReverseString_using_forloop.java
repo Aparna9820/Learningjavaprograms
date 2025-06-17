@@ -1,4 +1,4 @@
-package May_31st_Test_Stringbuffer_Stringbuilding_class;
+package May_31st_TASKS_Stringbuffer_Stringbuilding_class;
 
 public class Lab_163_Task1_InterviewQ_ReverseString_using_forloop {
     public static void main(String[] args) {

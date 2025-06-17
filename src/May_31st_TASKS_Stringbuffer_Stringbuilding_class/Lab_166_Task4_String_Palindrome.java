@@ -1,4 +1,4 @@
-package May_31st_Test_Stringbuffer_Stringbuilding_class;
+package May_31st_TASKS_Stringbuffer_Stringbuilding_class;
 
 public class Lab_166_Task4_String_Palindrome {
     public static void main(String[] args) {

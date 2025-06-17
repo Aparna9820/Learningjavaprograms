@@ -1,4 +1,4 @@
-package May_31st_Test_Stringbuffer_Stringbuilding_class;
+package May_31st_TASKS_Stringbuffer_Stringbuilding_class;
 
 public class Lab_167_1st_letter_of_eachword_in_String {
     public static void main(String[] args) {
