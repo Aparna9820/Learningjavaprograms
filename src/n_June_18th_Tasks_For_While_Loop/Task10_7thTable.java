@@ -1,6 +1,6 @@
 package n_June_18th_Tasks_For_While_Loop;
 //Print the multiplication table of 7
-public class Task10 {
+public class Task10_7thTable {
     public static void main(String[] args) {
         int n=7;
         int i=1;

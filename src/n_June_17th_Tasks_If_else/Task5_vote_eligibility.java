@@ -20,7 +20,7 @@ import java.util.Scanner;
 //}
 // Edge case program
 
-public class Task5 {
+public class Task5_vote_eligibility {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

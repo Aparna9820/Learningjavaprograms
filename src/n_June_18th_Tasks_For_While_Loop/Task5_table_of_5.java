@@ -2,7 +2,7 @@ package n_June_18th_Tasks_For_While_Loop;
 
 //Print the multiplication table of 5
 
-public class Task5 {
+public class Task5_table_of_5 {
     public static void main(String[] args) {
         int n=5;
         System.out.printf("%d*1=%d",n, n*1).println();

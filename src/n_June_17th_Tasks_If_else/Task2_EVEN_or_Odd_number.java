@@ -25,7 +25,7 @@ import java.util.Scanner;
 
 //EDGE CASE program when i am giving the Value as Negative
 
-public class Task2 {
+public class Task2_EVEN_or_Odd_number {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

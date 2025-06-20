@@ -2,7 +2,7 @@ package n_June_17th_Tasks_If_else;
 
 import java.util.Scanner;
 //Check if a Number is Positive or Negative.
-public class Task1 {
+public class Task1_positive_or_negative_number {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter any Number");

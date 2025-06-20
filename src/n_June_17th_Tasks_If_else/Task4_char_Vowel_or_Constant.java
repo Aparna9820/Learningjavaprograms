@@ -4,7 +4,7 @@ package n_June_17th_Tasks_If_else;
 
 import java.util.Scanner;
 
-public class Task4 {
+public class Task4_char_Vowel_or_Constant {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

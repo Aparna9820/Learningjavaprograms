@@ -1,6 +1,6 @@
 package n_June_18th_Tasks_For_While_Loop;
 //Print even numbers from 1 to 20
-public class Task7 {
+public class Task7_even_numbers_only_whileloop {
     public static void main(String[] args) {
         int i=1;
         while(i<=20){
