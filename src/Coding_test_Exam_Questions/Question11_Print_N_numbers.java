@@ -1,4 +1,4 @@
-package Coding_test_Questions;
+package Coding_test_Exam_Questions;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ import java.util.Scanner;
 //- Read the value of N from user input
 //- Use for loop to print numbers from 1 to N
 //- Print numbers in a single line separated by spaces
-public class Question11 {
+public class Question11_Print_N_numbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

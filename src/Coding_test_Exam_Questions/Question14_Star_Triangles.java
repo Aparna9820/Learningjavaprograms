@@ -1,4 +1,4 @@
-package Coding_test_Questions;
+package Coding_test_Exam_Questions;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
 //- Print a pyramid pattern of stars
 //- Use nested loops for pattern generation
 //- Make patterns scalable based on input size
-public class Question14 {
+public class Question14_Star_Triangles {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

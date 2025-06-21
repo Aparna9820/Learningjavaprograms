@@ -1,4 +1,4 @@
-package Coding_test_Questions;
+package Coding_test_Exam_Questions;
 //Write a program to print multiplication tables using nested loops.
 //
 //**Requirements:**
@@ -6,7 +6,7 @@ package Coding_test_Questions;
 //- Each table should show multiplications from 1 to 10
 //- Use nested for loops
 //- Format output clearly
-public class Question13 {
+public class Question13_Tables_1to5 {
     public static void main(String[] args) {
         // Outer loop for table numbers (1 to 5)
         for (int i = 1; i <= 5; i++) {

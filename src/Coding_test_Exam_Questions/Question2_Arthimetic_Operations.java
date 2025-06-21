@@ -1,11 +1,11 @@
-package Coding_test_Questions;
+package Coding_test_Exam_Questions;
 //Create a Java program that demonstrates various arithmetic and assignment operators.
 //
 //**Requirements:**
 //- Use +, -, *, /, % operators
 //- Demonstrate assignment operators (=, +=, -=, *=, /=)
 //- Show the results of each operation
-public class Question2 {
+public class Question2_Arthimetic_Operations {
     public static void main(String[] args) {
         int a=10, b=4;
         System.out.println("Addition of 2 numbers: " +(a+b));

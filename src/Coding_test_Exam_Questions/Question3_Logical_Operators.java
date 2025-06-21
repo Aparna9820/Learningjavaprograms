@@ -1,4 +1,4 @@
-package Coding_test_Questions;
+package Coding_test_Exam_Questions;
 //Comparison and Logical Operators
 //Write a program that demonstrates comparison and logical operators.
 //
@@ -6,7 +6,7 @@ package Coding_test_Questions;
 //- Use comparison operators (==, !=, <, >, <=, >=)
 //- Use logical operators (&&, ||, !)
 //- Print boolean results with explanatory messages
-public class Question3 {
+public class Question3_Logical_Operators {
     public static void main(String[] args) {
         int x = 10;
         int y = 20;

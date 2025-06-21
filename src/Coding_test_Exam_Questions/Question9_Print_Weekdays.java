@@ -1,4 +1,4 @@
-package Coding_test_Questions;
+package Coding_test_Exam_Questions;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
 //- Read a number (1-7) representing day of week
 //- Use switch statement to print corresponding day name
 //- Handle invalid input with default case
-public class Question9 {
+public class Question9_Print_Weekdays {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the day to 1 to 7");

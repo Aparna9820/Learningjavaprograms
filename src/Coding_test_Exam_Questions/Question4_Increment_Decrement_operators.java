@@ -1,4 +1,4 @@
-package Coding_test_Questions;
+package Coding_test_Exam_Questions;
 //Increment and Decrement Operators
 //Create a program that demonstrates pre-increment, post-increment, pre-decrement, and post-decrement operators.
 //
@@ -6,7 +6,7 @@ package Coding_test_Questions;
 //- Show the difference between ++i and i++
 //- Show the difference between --i and i--
 //- Print values before and after operations
-public class Question4 {
+public class Question4_Increment_Decrement_operators {
     public static void main(String[] args) {
         int i = 5;
 

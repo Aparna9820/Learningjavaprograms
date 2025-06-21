@@ -1,4 +1,4 @@
-package Coding_test_Questions;
+package Coding_test_Exam_Questions;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
 //- Use switch statement to perform the operation
 //- Handle division by zero
 //- Display the result
-public class Question10 {
+public class Question10_Operators_Switchcase {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

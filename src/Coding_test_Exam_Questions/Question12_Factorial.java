@@ -1,4 +1,4 @@
-package Coding_test_Questions;
+package Coding_test_Exam_Questions;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
 //- Use while loop to calculate factorial
 //- Handle edge case for 0! = 1
 //- Use appropriate data type to handle large results
-public class Question12 {
+public class Question12_Factorial {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

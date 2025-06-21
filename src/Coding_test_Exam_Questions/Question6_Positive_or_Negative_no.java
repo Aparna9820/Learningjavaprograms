@@ -1,4 +1,4 @@
-package Coding_test_Questions;
+package Coding_test_Exam_Questions;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ import java.util.Scanner;
 //- Read an integer from user input
 //- Use if-else statements to classify the number
 //- Print appropriate message for each case
-public class Question6 {
+public class Question6_Positive_or_Negative_no {
     public static void main(String[] args) {
         Scanner scanner= new Scanner(System.in);
         System.out.println("Enter Any Number: ");

@@ -1,4 +1,4 @@
-package Coding_test_Questions;
+package Coding_test_Exam_Questions;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
 //- A prime number is divisible only by 1 and itself
 //- Print all prime numbers in the range 1-100
 //- Optimize the algorithm for better performance
-public class Question15 {
+public class Question15_Primenumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 //

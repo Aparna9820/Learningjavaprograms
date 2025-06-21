@@ -1,4 +1,4 @@
-package Coding_test_Questions;
+package Coding_test_Exam_Questions;
 //Operator Precedence and Type Casting
 //Write a program that demonstrates operator precedence and type casting in Java.
 //
@@ -6,7 +6,7 @@ package Coding_test_Questions;
 //- Show operator precedence with complex expressions
 //- Demonstrate implicit and explicit type casting
 //- Print results with explanations
-public class Question5 {
+public class Question5_operator_precedence_TypeCasting {
     public static void main(String[] args) {
         // Operator precedence example
         int r1= 10+2*5;

@@ -1,4 +1,4 @@
-package Coding_test_Questions;
+package Coding_test_Exam_Questions;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ import java.util.Scanner;
 //- Read three integers from user input
 //- Use nested if-else or if-else if statements
 //- Handle cases where numbers might be equal
-public class Question7 {
+public class Question7_Largest_3numbers {
     public static void main(String[] args) {
         Scanner scanner= new Scanner(System.in);
         System.out.println("Enter 1st value");
