@@ -1,5 +1,11 @@
 package Coding_test_Questions;
 
+//Write a Java program that demonstrates proper variable declaration and initialization for different data types.
+//
+//**Requirements:**
+//- Declare and initialize variables of different primitive data types (int, double, boolean, char)
+//- Print the values of all variables
+//- Show proper naming conventions
 public class Question1 {
         public static void main(String[] args) {
             // Integer variable
