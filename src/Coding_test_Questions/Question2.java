@@ -13,6 +13,7 @@ public class Question2 {
         System.out.println("Multiplication of 2 numbers: " +(a*b));
         System.out.println("Division of 2 numbers: " +(a/b));
         System.out.println("Modulus of 2 numbers: " +(a%b));
+
     }
 
 }
@@ -21,5 +22,3 @@ public class Question2 {
 //Multiplication of 2 numbers: 40
 //Division of 2 numbers: 2
 //Modulus of 2 numbers: 2
-//
-//Process finished with exit code 0
