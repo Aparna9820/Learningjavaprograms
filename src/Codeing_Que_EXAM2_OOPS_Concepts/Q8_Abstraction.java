@@ -1,7 +1,7 @@
 package Codeing_Que_EXAM2_OOPS_Concepts;
 //Abstract Shape Implementation
 //Implement an abstract class "Shape" with an abstract method "getArea()". Create subclasses "Rectangle" and "Circle" and implement "getArea()" for each.
-public class Q8 {
+public class Q8_Abstraction {
     public static void main(String[] args) {
         Shape rect = new Rectangle(10, 5);
         Shape circle = new Circle(7);

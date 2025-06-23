@@ -1,7 +1,7 @@
 package Codeing_Que_EXAM2_OOPS_Concepts;
 //Vehicle Inheritance Hierarchy
 //Create a Vehicle base class with start() method. Create Car and Bike subclasses that override the start() method.
-public class Q6 {
+public class Q6_Hirarchy_Inheritance {
     public static void main(String[] args) {
         Vehicle vehicle = new Vehicle();
         Vehicle car = new Car();

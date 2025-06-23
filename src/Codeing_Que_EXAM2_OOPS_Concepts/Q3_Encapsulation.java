@@ -1,7 +1,7 @@
 package Codeing_Que_EXAM2_OOPS_Concepts;
 //Employee Encapsulation
 //Implement encapsulation in a class "Employee" with private attributes "id", "name", and "salary". Add getter and setter methods.
-public class Q3 {
+public class Q3_Encapsulation {
     public static void main(String[] args) {
         Employee E1= new Employee(201, "Appu", 15000);
         E1.getId();

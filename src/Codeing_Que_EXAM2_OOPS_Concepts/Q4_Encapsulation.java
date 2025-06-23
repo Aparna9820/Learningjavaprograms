@@ -1,7 +1,7 @@
 package Codeing_Que_EXAM2_OOPS_Concepts;
 //Bank Account Encapsulation
 //Create a BankAccount class with private balance field. Implement deposit(), withdraw(), and getBalance() methods with proper validation.
-public class Q4 {
+public class Q4_Encapsulation {
     public static void main(String[] args) {
         BankAccount account = new BankAccount(1000);
 

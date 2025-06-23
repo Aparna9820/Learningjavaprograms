@@ -1,7 +1,7 @@
 package Codeing_Que_EXAM2_OOPS_Concepts;
 //Animal Sound Polymorphism
 //Create a class "Animal" and subclasses "Dog" and "Cat". Override a method to make each animal make a sound.
-public class Q5 {
+public class Q5_Polymorphism {
     public static void main(String[] args) {
         Dog d1=new Dog();
         d1.sound();

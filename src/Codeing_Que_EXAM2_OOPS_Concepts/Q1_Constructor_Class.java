@@ -1,7 +1,7 @@
 package Codeing_Que_EXAM2_OOPS_Concepts;
 //Person Class Implementation
 //Create a class "Person" with attributes "name" and "age". Create two instances and print their details.
-public class Q1 {
+public class Q1_Constructor_Class {
     public static void main(String[] args) {
         // Creating two instances of Person
         Person person1 = new Person("Appu", 25);

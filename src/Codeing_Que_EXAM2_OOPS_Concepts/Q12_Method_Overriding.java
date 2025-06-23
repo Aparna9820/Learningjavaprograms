@@ -1,7 +1,7 @@
 package Codeing_Que_EXAM2_OOPS_Concepts;
 //Method Overriding Demo
 //Write a program to demonstrate method overriding by creating parent and child classes with the same method signature.
-public class Q12 {
+public class Q12_Method_Overriding {
     public static void main(String[] args) {
         parent p1=new parent();
         p1.Signature();

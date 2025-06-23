@@ -1,7 +1,7 @@
 package Codeing_Que_EXAM2_OOPS_Concepts;
 //Calculator Method Overloading
 //Write a program to demonstrate method overloading by creating multiple "add" methods with different parameters.
-public class Q11 {
+public class Q11_Method_Overloading {
     public static void main(String[] args) {
         Calculator calc = new Calculator();
 

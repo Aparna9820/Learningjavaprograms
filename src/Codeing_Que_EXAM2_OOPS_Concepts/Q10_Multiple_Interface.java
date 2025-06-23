@@ -1,7 +1,7 @@
 package Codeing_Que_EXAM2_OOPS_Concepts;
 //Multiple Interface Implementation
 //Create interfaces "Flyable" and "Swimmable" with appropriate methods. Implement both in a "Duck" class.
-public class Q10 {
+public class Q10_Multiple_Interface {
     public static void main(String[] args) {
         Duck duck = new Duck();
 

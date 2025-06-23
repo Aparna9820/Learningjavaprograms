@@ -1,7 +1,7 @@
 package Codeing_Que_EXAM2_OOPS_Concepts;
 //Drawable Interface Implementation
 //Create an interface "Drawable" with a method "draw()". Implement this interface in classes "Circle" and "Rectangle".
-public class Q9 {
+public class Q9_Interface {
     public static void main(String[] args) {
         Drawable d1 = new MyCircle();
         Drawable d2 = new MyRectangle();

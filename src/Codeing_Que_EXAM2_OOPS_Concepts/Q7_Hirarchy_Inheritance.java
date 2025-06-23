@@ -1,7 +1,7 @@
 package Codeing_Que_EXAM2_OOPS_Concepts;
 //Employee Hierarchy with Salary Calculation
 //Create an Employee base class and Manager, Developer subclasses. Each should have different salary calculation methods.
-public class Q7 {
+public class Q7_Hirarchy_Inheritance {
     public static void main(String[] args) {
         employee manager = new Manager("Alice", 101, 80000, 10000);
         employee developer = new Developer("Bob", 102, 50, 160);

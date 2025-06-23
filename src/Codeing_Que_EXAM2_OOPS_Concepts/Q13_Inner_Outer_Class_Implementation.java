@@ -1,7 +1,7 @@
 package Codeing_Que_EXAM2_OOPS_Concepts;
 //Outer and Inner Class Implementation
 //Create a class "Outer" with an inner class "Inner". Access the inner class from the outer class and demonstrate their interaction.
-public class Q13 {
+public class Q13_Inner_Outer_Class_Implementation {
     public static void main(String[] args) {
         Outer outer = new Outer();
 
