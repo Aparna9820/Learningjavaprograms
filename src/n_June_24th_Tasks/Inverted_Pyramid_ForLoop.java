@@ -2,7 +2,7 @@ package n_June_24th_Tasks;
 
 public class Inverted_Pyramid_ForLoop {
     public static void main(String[] args) {
-        int num = 5;
+        int num = 4;
         for (int i = num; i >= 1; i--) {
             for (int j = num - i; j >= 1; j--) {
                 System.out.print(" ");
@@ -14,10 +14,9 @@ public class Inverted_Pyramid_ForLoop {
         }
     }
 }
-//*********
-// *******
-//  *****
-//   ***
-//    *
+//*******
+// *****
+//  ***
+//   *
 //
 //Process finished with exit code 0

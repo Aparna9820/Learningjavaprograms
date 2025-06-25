@@ -2,7 +2,7 @@ package n_June_24th_Tasks;
 
 public class Inverted_Pyramid_WhileLoop {
     public static void main(String[] args) {
-        int num1=4;
+        int num1=5;
         int i=num1;
         while(i>=1){
             int j=num1-i;
@@ -19,9 +19,11 @@ public class Inverted_Pyramid_WhileLoop {
         }
     }
 }
-//*******
-// *****
-//  ***
-//   *
+
+//*********
+// *******
+//  *****
+//   ***
+//    *
 //
 //Process finished with exit code 0
