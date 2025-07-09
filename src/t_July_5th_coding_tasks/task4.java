@@ -1,4 +1,4 @@
-package t_july_5th_coding_tasks;
+package t_July_5th_coding_tasks;
 //Catch Multiple Exceptions
 //Write a program that catches both `ArithmeticException` and `ArrayIndexOutOfBoundsException`.
 

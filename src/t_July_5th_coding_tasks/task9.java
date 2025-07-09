@@ -1,4 +1,4 @@
-package t_july_5th_coding_tasks;
+package t_July_5th_coding_tasks;
 //Exception Propagation Example
 //Show how an exception propagates through method calls.
 public class task9 {

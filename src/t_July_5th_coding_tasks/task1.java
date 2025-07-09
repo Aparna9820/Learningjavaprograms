@@ -1,4 +1,4 @@
-package t_july_5th_coding_tasks;
+package t_July_5th_coding_tasks;
 //Custom Exception Example
 //Write a custom exception called `InvalidAgeException` and throw it if age is less than 18.
 // Define the custom exception by extending Exception

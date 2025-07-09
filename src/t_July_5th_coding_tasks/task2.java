@@ -1,4 +1,4 @@
-package t_july_5th_coding_tasks;
+package t_July_5th_coding_tasks;
 //Try-Catch-Finally Example
 //Write a program that demonstrates try-catch-finally block with division operation.
 class DivisionExample {

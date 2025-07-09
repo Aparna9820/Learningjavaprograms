@@ -1,4 +1,4 @@
-package t_july_5th_coding_tasks;
+package t_July_5th_coding_tasks;
 //Wrapper Class: Find Max Value
 //Find the maximum value in an array of Integer objects.
 public class task7 {

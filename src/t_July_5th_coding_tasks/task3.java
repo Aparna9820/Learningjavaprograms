@@ -1,4 +1,4 @@
-package t_july_5th_coding_tasks;
+package t_July_5th_coding_tasks;
 //Generic Swap Method
 //Write a generic method to swap two elements in an array.
 public class task3 {

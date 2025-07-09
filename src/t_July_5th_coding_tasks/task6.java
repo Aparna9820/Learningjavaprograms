@@ -1,4 +1,4 @@
-package t_july_5th_coding_tasks;
+package t_July_5th_coding_tasks;
 // Generic Class for Pair
 //Create a generic class `Pair` that holds two values of any type.
 public class task6 {

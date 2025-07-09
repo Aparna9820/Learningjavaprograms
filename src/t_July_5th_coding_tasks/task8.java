@@ -1,7 +1,7 @@
-package t_july_5th_coding_tasks;
+package t_July_5th_coding_tasks;
 //Generic Method to Print Array
 //Write a generic method to print any type of array.
-import static t_july_5th_coding_tasks.GenericArrayPrinter.printArray;
+import static t_July_5th_coding_tasks.GenericArrayPrinter.printArray;
 
 public class task8 {
     public static void main(String[] args) {
