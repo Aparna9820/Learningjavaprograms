@@ -24,18 +24,6 @@ Risks and Mitigations	11
 Approvals	12
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 Objective 
 
 The objective of this test plan is to basically verify the RESTful Booker API, where we have created booking, updated booking, delete booking with authentication, add authentication token. It basically contains a lot of bugs also. We need to find all those bugs. That's the overall objective. We are going to put them all into a Postman for test case execution. And in the end, we need automation also for the same by using REST assured framework. 
@@ -218,16 +206,6 @@ Check the API's adherence to rate-limiting rules for CRUD operations to prevent 
 Backup and Recovery Testing:
 
 Validate data backup and recovery procedures for CRUD-related data.
-
-
-
-
-
-
-
-
-
-
 
 
 Test Environments
